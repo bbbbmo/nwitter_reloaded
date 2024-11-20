@@ -18,8 +18,8 @@ const TextArea = styled.textarea`
   padding: 20px;
   border-radius: 20px;
   font-size: 16px;
-  color: white;
-  background-color: black;
+  color: #111012;
+  background-color: white;
   resize: none; // textarea는 기본적으로 유저가 크기를 조절할 수 있음 <- 이것을 방지
   font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
     Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
